@@ -1,0 +1,22 @@
+{
+  "name": "TechNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alonprince/TechNode.git"
+  },
+  "author": "Phishing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alonprince/TechNode/issues"
+  },
+  "homepage": "https://github.com/alonprince/TechNode",
+  "dependencies": {
+    "coffee-script": "^1.9.1"
+  }
+}
